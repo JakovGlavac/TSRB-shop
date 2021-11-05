@@ -1,0 +1,21 @@
+{
+  "title": "tsrb.shop",
+  "titleTemplate": "%s - tsrb.shop",
+  "description": "TSRB SHOP - najepic shop na ovoj strani Save",
+  "openGraph": {
+    "title": "TSRB SHOP | toliko epic shop da glava boli",
+    "description": "TSRB SHOP - najepic shop na ovoj strani Save",
+    "type": "website",
+    "locale": "hr_HR",
+    "url": "https://tsrb.shop",
+    "site_name": "TSRB SHOP",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": 800,
+        "height": 600,
+        "alt": "TSRB SHOP"
+      }
+    ]
+  }
+}

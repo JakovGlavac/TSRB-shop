@@ -1,0 +1,22 @@
+{
+  "name": "tsrb.shop",
+  "short_name": "tsrb.shop",
+  "description": "tsrb.shop -> mjesto gdje su majice dobre",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#fff",
+  "background_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
